@@ -7,8 +7,6 @@ Treemap Displayer - Trees
 Meepo - Object Oriented Programming 
 Image Compressor Decompressor Visualizer - Trees 
 
-# CSC207 - Software Design (JAVA)
+# CSC207 - Software Design (HTML, CSS, JS, Java)
 Online multiplayer Wordgame System - Software Design
-
-
 
