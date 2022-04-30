@@ -18,5 +18,7 @@ Real Implementation of a CGI Web Server
 
 # CSC263 - Data Structures and Algorithims
 Complexity Analysis of Binary Search Tree and Loops, Modifying Heaps, Identifying ADTs and Data Structures
+
 Identifying more ADts and Data Structures, Identify and implement Data Structure for a given scenerio, Hashing implementation and analysis of probing vs chaining
+
 Implementation of DFS algorithm and testing, Amortized Analysis, Implement and Analyze an Algorithm based on BFS to delete a node and make sure the undirected graph is still connected, Minimum Spanning Tree Complexity Analysis
