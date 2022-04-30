@@ -12,8 +12,11 @@ Online multiplayer Wordgame System - Software Design
 
 # CSC209 - Systems Programming and Tools
 Learning C using DNA sequences
+
 Worlde implemented in C
+
 Very Simple CGI Web Server (Without Sockets)
+
 Real Implementation of a CGI Web Server
 
 # CSC263 - Data Structures and Algorithims
