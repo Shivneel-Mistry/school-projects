@@ -28,3 +28,10 @@ Complexity Analysis of Binary Search Tree and Loops, Modifying Heaps, Identifyin
 Identifying more ADts and Data Structures, Identify and implement Data Structure for a given scenerio, Hashing implementation and analysis of probing vs chaining
 
 Implementation of DFS algorithm and testing, Amortized Analysis, Implement and Analyze an Algorithm based on BFS to delete a node and make sure the undirected graph is still connected, Minimum Spanning Tree Complexity Analysis
+
+# CSC343 - Introduction to Databases
+Relational Algebra and Integrity Constraints
+
+Query Implementation (Recursive/NonRecursive) and Embedded SQL
+
+Database Table Design, BCNF Decomposition, Chase Test, Minimum Basis and 3NF analysis
